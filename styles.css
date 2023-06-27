@@ -1,0 +1,17 @@
+h2 {
+    background-color: rgba(0, 255, 255, 0.5);
+    margin-right: 90%;
+    text-align: center;
+}
+
+.content {
+    background-color: rgba(250, 235, 215, 0.5);
+    margin-right: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+img {
+    width: 30%;
+    height: auto;
+}
